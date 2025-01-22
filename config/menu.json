@@ -1,0 +1,18 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Resources",
+      "url": "/resources"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Resources",
+      "url": "/resources"
+    }
+  ]
+}

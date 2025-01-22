@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "Tip Screen",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "75",
+    "logo_text": "Tip Screen"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Tip Screen is more than just a calculator - it's a complete tipping platform designed for both personal and business use. From quick calculations to comprehensive tip management, our suite of tools helps you handle tips efficiently.",
+    "copyright": "Designed & Developed By [Tip Screen](https://www.tip-screen.com)"
+  },
+
+  "contact_info": {
+    "phone": "",
+    "email": "",
+    "location": ""
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Try it Now",
+    "link": "/resources/tip-calculator"
+  },
+
+  "metadata": {
+    "meta_author": "Tip Screen",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Tip Screen is more than just a calculator - it's a complete tipping platform designed for both personal and business use. From quick calculations to comprehensive tip management, our suite of tools helps you handle tips efficiently."
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get Tip Screen Now",
+    "content": "Tip Screen is more than just a calculator - it's a complete tipping platform designed for both personal and business use. From quick calculations to comprehensive tip management, our suite of tools helps you handle tips efficiently.",
+    "button": {
+      "label": "Explore Tools",
+      "link": "/resources"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "tip-screen",
+    "settings": {}
+  }
+}
