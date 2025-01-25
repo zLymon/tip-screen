@@ -16,8 +16,8 @@ const Home = async () => {
   return (
     <GSAPWrapper>
       <SeoMeta 
-        title="Smart Tip Calculator - Easy Bill Splitting and Tip Calculations"
-        description="A modern tip calculator with multi-currency support, flexible tip options, and bill splitting features. Perfect for both personal and business use."
+        title="Tip Screen - Smart Digital Tipping Solution for Modern Payments with Tip Screen"
+        description="A professional digital tipping platform with multi-currency support, customizable tip screen, and seamless payment processing. Ideal for businesses and service providers."
         url="/"
         canonical="https://www.tip-screen.com"
       />
