@@ -7,12 +7,20 @@
     {
       "name": "Resources",
       "url": "/resources"
+    },
+    {
+      "name": "Images",
+      "url": "/images"
     }
   ],
   "footer": [
     {
       "name": "Resources",
       "url": "/resources"
+    },
+    {
+      "name": "Images",
+      "url": "/images"
     }
   ]
 }
